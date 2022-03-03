@@ -1,7 +1,7 @@
 <template>
   <div class="auth">
     <div class="background"></div>
-<!--    <router-view></router-view>-->
+    <router-view></router-view>
   </div>
 </template>
 
